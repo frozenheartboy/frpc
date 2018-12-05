@@ -11,4 +11,12 @@
 
     <artifactId>frpc-client</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.frozen</groupId>
+            <artifactId>frpc-common</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
+
 </project>
